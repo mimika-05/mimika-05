@@ -1,17 +1,20 @@
-## Hi there 👋
+**Sejam bem vidos ao meu perfil** 💜💗
 
-<!--
-**mimika-05/mimika-05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Meu nome é** Mikaelli lima da Conceição 
 
-Boas vindas ao meu perfil 💙💙
-Meu nome é Mikaelli limada Conceução
+- Consigo entender e aprender facil o mundo da tecnoligia
 
-Estou estudando na Alura
-Estou me desenvolvendo na linguagem JavaScript
-Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+- Estou estudando na plataforma Alura
+nas aulas de Tecnologia Robotica
 
-Você pode entrar em contato comigo 📫
+- Estou me desenvolvendo na linguagem JavaScript
 
-0000107689236xsp@al.educacao.sp.gov.br
+- Estou Utilizando esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos (scrach e p5js)
 
-@mimika-05
+**Você pode entrar em contato comigo** 📫
+
+- 0000107689236xsp@al.educacao.sp.gov.br
+- mikaellilimarte@gmail.com
+- **intagram**: mimika_lima
+
+![]
